@@ -15,6 +15,8 @@ Projects of 2016/17
 ===================
 
 
+MagicalJumpnRun by David Märzendorfer:
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/MagicalJumpnRun/index.html 
 
 
 
